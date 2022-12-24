@@ -77,7 +77,7 @@ int revers = 0;
 Console.Write("Введите число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-int current= num;
+int current = num;
 
 while (current != 0)
 {
